@@ -10,7 +10,7 @@ Sync Tailscale ACL files to Tailnets
 
 ## Description
 
-This is a very primitive repo that uses the Tailscale Terraform provider to sync a `json` or `jujson` ACL file from your filesystem to your tailnet of choice based on Oauth client credentials you supply.
+This is a very primitive repo that uses the Tailscale Terraform provider to sync a `json` or `hujson` ACL file from your filesystem to your tailnet of choice based on Oauth client credentials you supply.
 
 ## How to Use
 
